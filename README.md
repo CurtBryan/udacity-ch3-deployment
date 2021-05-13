@@ -22,10 +22,11 @@ my profile url is: https://hub.docker.com/u/curtbryan3rd
 ## DESCRIBE SERVICES
 
 ![Dockerhub screenshot](screenshots/describe-services.png)
+![Dockerhub screenshot](screenshots/describe-services-2.png)
 
 ## API LOG
 
-![Dockerhub screenshot](screenshots/api-log.png)
+![Dockerhub screenshot](screenshots/user-api-logs.png)
 
 ## DESCRIBE HPA
 
